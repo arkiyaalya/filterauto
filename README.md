@@ -15,9 +15,6 @@
   <a href="https://t.me/shadowedtomb_discussion">
     <img src="https://img.shields.io/badge/Telegram-Support-blue?style=for-the-badge&logo=telegram" alt="Support Group">
   </a>
-  <a href="https://github.com/VJBots/VJ-Filter-Bot">
-    <img src="https://img.shields.io/github/stars/VJBots/VJ-Filter-Bot?style=for-the-badge" alt="GitHub Stars">
-  </a>
 </p>
 
 ---
