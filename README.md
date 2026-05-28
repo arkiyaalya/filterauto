@@ -1,186 +1,540 @@
 <p align="center">
-  <img src="https://i.ibb.co/dJ0gpJf1/photo-2025-06-16-12-07-05-7516517596376596504.jpg" alt="VJ-Filter-Bot Logo">
+  <img src="https://i.ibb.co/dJ0gpJf1/photo-2025-06-16-12-07-05-7516517596376596504.jpg" alt="Shadowd TombBotz Logo">
 </p>
 <h1 align="center">
-  VJ FILTER BOT
+  SHADOWD TOMBBOTZ - Advanced Filter Bot
 </h1>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+VJ+Filter+Bot!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+To+Shadowd+TombBotz!;Advanced+Telegram+Filter+Bot;Optimized+For+Performance!)
 </p>
 
-## Main Feature 
-<b>
-  
-- [x] Multiple Database Support & On / Off
-- [x] Ai Spell Check 
-- [x] Custom Force Subscribe
-- [x] Rename Feature & On / Off
-- [x] Stream Feature On / Off 
-- [x] Pm Search On / Off
-- [x] Request To Join Force Subscribe With Auto File Send 
-- [x] Custom Stream
-- [x] Stream Feature With Many Player Support 
-- [x] Language & Season & Quality & Episode & Year Choose Option
-- [x] Auto Approve & On / Off
-- [x] Send All Button 
-- [x] Bot Pm File Auto Delete
-
-- Note : You Can Turn On Or Off Every Feature, Just Use Which Feature You Want By Turning It On.</b>
-
-### How To Deploy : [Video Tutorial](https://youtu.be/3SJR7vH2kRo)
-
-## Commands
-```
-• /start - 𝑇𝑜 𝑠𝑡𝑎𝑟𝑡 𝑡ℎ𝑒 𝑏𝑜𝑡
-• /index - 𝑖𝑛𝑑𝑒𝑥 𝑓𝑖𝑙𝑒 𝑓𝑟𝑜𝑚 𝑦𝑜𝑢𝑟 𝑐ℎ𝑎𝑛𝑛𝑒𝑙
-• /setskip - 𝑇𝑜 𝑠𝑘𝑖𝑝 𝑛𝑢𝑚𝑏𝑒𝑟 𝑜𝑓 𝑚𝑒𝑠𝑠𝑎𝑔𝑒𝑠 𝑤ℎ𝑒𝑛 𝑖𝑛𝑑𝑒𝑥𝑖𝑛𝑔 𝑓𝑖𝑙𝑒𝑠
-• /logs - 𝑡𝑜 𝑔𝑒𝑡 𝑡ℎ𝑒 𝑟𝑒𝑐𝑒𝑛𝑡 𝑒𝑟𝑟𝑜𝑟𝑠
-• /stats - 𝑡𝑜 𝑔𝑒𝑡 𝑠𝑡𝑎𝑡𝑢𝑠 𝑜𝑓 𝑓𝑖𝑙𝑒𝑠 𝑖𝑛 𝑑𝑏.
-• /connections - 𝑇𝑜 𝑠𝑒𝑒 𝑎𝑙𝑙 𝑐𝑜𝑛𝑛𝑒𝑐𝑡𝑒𝑑 𝑔𝑟𝑜𝑢𝑝𝑠
-• /settings - 𝑇𝑜 𝑜𝑝𝑒𝑛 𝑠𝑒𝑡𝑡𝑖𝑛𝑔𝑠 𝑚𝑒𝑛𝑢
-• /filter - 𝑎𝑑𝑑 𝑚𝑎𝑛𝑢𝑎𝑙 𝑓𝑖𝑙𝑡𝑒𝑟𝑠
-• /filters - 𝑣𝑖𝑒𝑤 𝑓𝑖𝑙𝑡𝑒𝑟𝑠
-• /connect - 𝑐𝑜𝑛𝑛𝑒𝑐𝑡 𝑡𝑜 𝑃𝑀.
-• /disconnect - 𝑑𝑖𝑠𝑐𝑜𝑛𝑛𝑒𝑐𝑡 𝑓𝑟𝑜𝑚 𝑃𝑀
-• /del - 𝑑𝑒𝑙𝑒𝑡𝑒 𝑎 𝑓𝑖𝑙𝑡𝑒𝑟
-• /delall - 𝑑𝑒𝑙𝑒𝑡𝑒 𝑎𝑙𝑙 𝑓𝑖𝑙𝑡𝑒𝑟𝑠
-• /deleteall - 𝑑𝑒𝑙𝑒𝑡𝑒 𝑎𝑙𝑙 𝑖𝑛𝑑𝑒𝑥𝑒𝑑 𝑓𝑖𝑙𝑒𝑠.
-• /delete - 𝑑𝑒𝑙𝑒𝑡𝑒 𝑎 𝑠𝑝𝑒𝑐𝑖𝑓𝑖𝑐 𝑓𝑖𝑙𝑒 𝑓𝑟𝑜𝑚 𝑖𝑛𝑑𝑒𝑥.
-• /info - 𝑔𝑒𝑡 𝑢𝑠𝑒𝑟 𝑖𝑛𝑓𝑜
-• /id - 𝑔𝑒𝑡 𝑡𝑔 𝑖𝑑𝑠.
-• /imdb - 𝑓𝑒𝑡𝑐ℎ 𝑖𝑛𝑓𝑜 𝑓𝑟𝑜𝑚 𝑖𝑚𝑑𝑏.
-• /search - 𝑇𝑜 𝑠𝑒𝑎𝑟𝑐ℎ 𝑓𝑟𝑜𝑚 𝑣𝑎𝑟𝑖𝑜𝑢𝑠 𝑠𝑜𝑢𝑟𝑐𝑒𝑠
-• /users - 𝑡𝑜 𝑔𝑒𝑡 𝑙𝑖𝑠𝑡 𝑜𝑓 𝑚𝑦 𝑢𝑠𝑒𝑟𝑠 𝑎𝑛𝑑 𝑖𝑑𝑠.
-• /chats - 𝑡𝑜 𝑔𝑒𝑡 𝑙𝑖𝑠𝑡 𝑜𝑓 𝑡ℎ𝑒 𝑚𝑦 𝑐ℎ𝑎𝑡𝑠 𝑎𝑛𝑑 𝑖𝑑𝑠 
-• /leave  - 𝑡𝑜 𝑙𝑒𝑎𝑣𝑒 𝑓𝑟𝑜𝑚 𝑎 𝑐ℎ𝑎𝑡.
-• /disable  -  𝑑𝑜 𝑑𝑖𝑠𝑎𝑏𝑙𝑒 𝑎 𝑐ℎ𝑎𝑡.
-• /enable - 𝑟𝑒-𝑒𝑛𝑎𝑏𝑙𝑒 𝑐ℎ𝑎𝑡.
-• /ban  - 𝑡𝑜 𝑏𝑎𝑛 𝑎 𝑢𝑠𝑒𝑟.
-• /unban  - 𝑡𝑜 𝑢𝑛𝑏𝑎𝑛 𝑎 𝑢𝑠𝑒𝑟.
-• /channel - 𝑡𝑜 𝑔𝑒𝑡 𝑙𝑖𝑠𝑡 𝑜𝑓 𝑡𝑜𝑡𝑎𝑙 𝑐𝑜𝑛𝑛𝑒𝑐𝑡𝑒𝑑 𝑐ℎ𝑎𝑛𝑛𝑒𝑙𝑠
-• /broadcast - 𝑡𝑜 𝑏𝑟𝑜𝑎𝑑𝑐𝑎𝑠𝑡 𝑎 𝑚𝑒𝑠𝑠𝑎𝑔𝑒 𝑡𝑜 𝑎𝑙𝑙 𝑢𝑠𝑒𝑟𝑠
-• /grp_broadcast - 𝑇𝑜 𝑏𝑟𝑜𝑎𝑑𝑐𝑎𝑠𝑡 𝑎 𝑚𝑒𝑠𝑠𝑎𝑔𝑒 𝑡𝑜 𝑎𝑙𝑙 𝑐𝑜𝑛𝑛𝑒𝑐𝑡𝑒𝑑 𝑔𝑟𝑜𝑢𝑝𝑠.
-• /batch - 𝑡𝑜 𝑐𝑟𝑒𝑎𝑡𝑒 𝑙𝑖𝑛𝑘 𝑓𝑜𝑟 𝑚𝑢𝑙𝑡𝑖𝑝𝑙𝑒 𝑝𝑜𝑠𝑡𝑠
-• /link - 𝑡𝑜 𝑐𝑟𝑒𝑎𝑡𝑒 𝑙𝑖𝑛𝑘 𝑓𝑜𝑟 𝑜𝑛𝑒 𝑝𝑜𝑠𝑡
-• /set_template - 𝑇𝑜 𝑠𝑒𝑡 𝑎 𝑐𝑢𝑠𝑡𝑜𝑚 𝐼𝑀𝐷𝑏 𝑡𝑒𝑚𝑝𝑙𝑎𝑡𝑒 𝑓𝑜𝑟 𝑖𝑛𝑑𝑖𝑣𝑖𝑑𝑢𝑎𝑙 𝑔𝑟𝑜𝑢𝑝𝑠
-• /gfilter - 𝑇𝑜 𝑎𝑑𝑑 𝑔𝑙𝑜𝑏𝑎𝑙 𝑓𝑖𝑙𝑡𝑒𝑟𝑠.
-• /gfilters - 𝑇𝑜 𝑣𝑖𝑒𝑤 𝑙𝑖𝑠𝑡 𝑜𝑓 𝑎𝑙𝑙 𝑔𝑙𝑜𝑏𝑎𝑙 𝑓𝑖𝑙𝑡𝑒𝑟𝑠.
-• /delg - 𝑇𝑜 𝑑𝑒𝑙𝑒𝑡𝑒 𝑎 𝑠𝑝𝑒𝑐𝑖𝑓𝑖𝑐 𝑔𝑙𝑜𝑏𝑎𝑙 𝑓𝑖𝑙𝑡𝑒𝑟.
-• /delallg - 𝑇𝑜 𝑑𝑒𝑙𝑒𝑡𝑒 𝑎𝑙𝑙 𝑔𝑙𝑜𝑏𝑎𝑙 𝑓𝑖𝑙𝑡𝑒𝑟𝑠 𝑓𝑟𝑜𝑚 𝑡ℎ𝑒 𝑏𝑜𝑡'𝑠 𝑑𝑎𝑡𝑎𝑏𝑎𝑠𝑒.
-• /deletefiles - 𝑇𝑜 𝑑𝑒𝑙𝑒𝑡𝑒 𝑃𝑟𝑒𝐷𝑉𝐷 𝑎𝑛𝑑 𝐶𝑎𝑚𝑅𝑖𝑝 𝐹𝑖𝑙𝑒𝑠 𝑓𝑟𝑜𝑚 𝑡ℎ𝑒 𝑏𝑜𝑡'𝑠 𝑑𝑎𝑡𝑎𝑏𝑎𝑠𝑒.
-• /restart  - 𝑟𝑒𝑠𝑡𝑎𝑟𝑡 𝑡ℎ𝑒 𝑏𝑜𝑡 𝑠𝑒𝑟𝑣𝑒𝑟
-• /fsub - 𝑎𝑑𝑑 𝑓𝑜𝑟𝑐𝑒 𝑠𝑢𝑏𝑠𝑐𝑟𝑖𝑏𝑒 𝑐ℎ𝑎𝑛𝑛𝑒𝑙 𝑖𝑛 𝑔𝑟𝑜𝑢𝑝
-• /nofsub - 𝑟𝑒𝑚𝑜𝑣𝑒 𝑜𝑟 𝑜𝑓𝑓 𝑓𝑜𝑟𝑐𝑒 𝑠𝑢𝑏𝑠𝑐𝑟𝑖𝑏𝑒 𝑖𝑛 𝑦𝑜𝑢𝑟 𝑔𝑟𝑜𝑢𝑝
-• /rename - 𝑟𝑒𝑛𝑎𝑚𝑒 𝑦𝑜𝑢𝑟 𝑓𝑖𝑙𝑒
-• /set_caption - 𝑎𝑑𝑑 𝑐𝑎𝑝𝑡𝑖𝑜𝑛 𝑓𝑜𝑟 𝑦𝑜𝑢𝑟 𝑟𝑒𝑛𝑎𝑚𝑒𝑑 𝑓𝑖𝑙𝑒
-• /see_caption - 𝑠𝑒𝑒 𝑦𝑜𝑢𝑟 𝑠𝑎𝑣𝑒𝑑 𝑐𝑎𝑝𝑡𝑖𝑜𝑛
-• /del_caption - 𝑑𝑒𝑙𝑒𝑡𝑒 𝑦𝑜𝑢𝑟 𝑠𝑎𝑣𝑒𝑑 𝑐𝑎𝑝𝑡𝑖𝑜𝑛
-• /set_thumb - 𝑎𝑑𝑑 𝑡ℎ𝑢𝑚𝑏𝑛𝑎𝑖𝑙 𝑓𝑜𝑟 𝑦𝑜𝑢𝑟 𝑟𝑒𝑛𝑎𝑚𝑒𝑑 𝑓𝑖𝑙𝑒
-• /view_thumb - 𝑣𝑖𝑒𝑤 𝑦𝑜𝑢𝑟 𝑠𝑎𝑣𝑒𝑑 𝑡ℎ𝑢𝑚𝑏𝑛𝑎𝑖𝑙
-• /del_thumb - 𝑑𝑒𝑙𝑒𝑡𝑒 𝑦𝑜𝑢𝑟 𝑠𝑎𝑣𝑒𝑑 𝑡ℎ𝑢𝑚𝑏𝑛𝑎𝑖𝑙
-• /stream - 𝑔𝑒𝑛𝑒𝑟𝑎𝑡𝑒 𝑠𝑡𝑟𝑒𝑎𝑚 𝑎𝑛𝑑 𝑑𝑜𝑤𝑛𝑙𝑜𝑎𝑑 𝑙𝑖𝑛𝑘 𝑜𝑓 𝑦𝑜𝑢𝑟 𝑓𝑖𝑙𝑒
-• /telegraph - 𝑔𝑒𝑡 𝑡𝑒𝑙𝑒𝑔𝑟𝑎𝑝ℎ 𝑙𝑖𝑛𝑘 𝑜𝑓 𝑎𝑛𝑦 𝑓𝑖𝑙𝑒 𝑢𝑛𝑑𝑒𝑟 5𝑚𝑏
-• /stickerid - 𝑡𝑜 𝑔𝑒𝑡 𝑖𝑑 𝑎𝑛𝑑 𝑢𝑛𝑖𝑞𝑢𝑒 𝐼'𝑑 𝑜𝑓 𝑠𝑡𝑖𝑐𝑘𝑒𝑟
-• /font - 𝑡𝑜 𝑔𝑒𝑡 𝑎𝑛𝑦 𝑡𝑦𝑝𝑒 𝑜𝑓 𝑓𝑜𝑛𝑡 𝑜𝑓 𝑎𝑛𝑦 𝑤𝑜𝑟𝑑
-• /repo - 𝑔𝑒𝑡 𝑎𝑛𝑦 𝑟𝑒𝑝𝑜 𝑙𝑖𝑛𝑘 𝑏𝑦 𝑠𝑒𝑎𝑟𝑐ℎ𝑖𝑛𝑔
-• /purgerequests - 𝑑𝑒𝑙𝑒𝑡𝑒 𝑎𝑙𝑙 𝑗𝑜𝑖𝑛 𝑟𝑒𝑞𝑢𝑒𝑠𝑡𝑠 𝑓𝑟𝑜𝑚 𝑑𝑎𝑡𝑎𝑏𝑎𝑠𝑒
-• /totalrequests - 𝑔𝑒𝑡 𝑡𝑜𝑡𝑎𝑙 𝑛𝑢𝑚𝑏𝑒𝑟 𝑜𝑓 𝑗𝑜𝑖𝑛 𝑟𝑒𝑞𝑢𝑒𝑠𝑡 𝑓𝑟𝑜𝑚 𝑑𝑎𝑡𝑎𝑏𝑎𝑠𝑒
-```
-
-## Variables
-
-### Required Variables
-* <b>`BOT_TOKEN`: Create a bot using [@BotFather](https://telegram.dog/BotFather), and get the Telegram API token.
-* `API_ID`: Get this value from [telegram.org](https://my.telegram.org/apps)
-* `API_HASH`: Get this value from [telegram.org](https://my.telegram.org/apps)
-* `CHANNELS`: This Is File Channel, Username or ID of channel or group. Separate multiple IDs by space
-* `ADMINS`: Username or ID of Admin. Separate multiple Admins by space
-* `DATABASE_URI`: [mongoDB](https://www.mongodb.com) URI. Get this value from [mongoDB](https://www.mongodb.com). For more help watch this [video](https://youtu.be/DAHRmFdw99o)
-* `LOG_CHANNEL` : A channel to log the activities of bot. Make sure bot is an admin in the channel.</b>
-
-
-<details><summary><b>Deploy To Heroku</b></summary>
-<p>
-<br>
-<b>First Connect Your GitHub Account Then Select Repo And Deploy With Procfile.</b>
+<p align="center">
+  <a href="https://t.me/shadowedtomb">
+    <img src="https://img.shields.io/badge/Telegram-Channel-blue?style=for-the-badge&logo=telegram" alt="Telegram Channel">
+  </a>
+  <a href="https://t.me/shadowedtomb_discussion">
+    <img src="https://img.shields.io/badge/Telegram-Support-blue?style=for-the-badge&logo=telegram" alt="Support Group">
+  </a>
+  <a href="https://github.com/VJBots/VJ-Filter-Bot">
+    <img src="https://img.shields.io/github/stars/VJBots/VJ-Filter-Bot?style=for-the-badge" alt="GitHub Stars">
+  </a>
 </p>
-</details>
 
-<details><summary><b>Deploy To Koyeb</b></summary>
-<br>
-<b>The fastest way to deploy the application is to click the Deploy to Koyeb button below.</b>
-<br>
-<br>
+---
 
-[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/VJBots/VJ-Filter-Bot&branch=Tech_VJ&name=VJ-Filter-Bot)
-</details>
+## 🚀 Main Features 
 
-<details><summary><b>Deploy To Render</b></summary>
-<br>
 <b>
-Use these commands:
-<br>
-<br>
-• Build Command: <code>pip3 install -U -r requirements.txt</code>
-<br>
-<br>
-• Start Command: <code>python3 bot.py</code>
-<br>
-<br>
-Go to https://uptimerobot.com/ and add a monitor to keep your bot alive.
-<br>
-<br>
-Use these settings when adding a monitor:</b>
-<br>
-<br>
-<img src="https://telegra.ph/file/a79a156e44f43c9833b50.jpg" alt="render template">
-<br>
-<br>
-<b>Click on the below button to deploy directly to render ↓</b>
-<br>
-<br>
-<a href="https://render.com/deploy?repo=https://github.com/VJBots/VJ-Filter-Bot/tree/Tech_VJ">
-<img src="https://render.com/images/deploy-to-render-button.svg" alt="Deploy to Render">
-</a>
-</details>
 
-<details><summary><b>Deploy To VPS</summary>
+### Core Features
+- [x] **Multiple Database Support** - Unlimited MongoDB connections with dynamic management
+- [x] **Advanced Caching System** - In-memory caching with TTL for faster responses
+- [x] **Database Health Monitoring** - Real-time connection health checks
+- [x] **Query Optimization** - Intelligent query routing and load balancing
+- [x] **AI Spell Check** - Smart search with typo correction
+- [x] **Custom Force Subscribe** - Flexible force subscribe with request-to-join support
+- [x] **Rename Feature** - File renaming with custom captions and thumbnails
+- [x] **Stream Feature** - Multiple player support for streaming
+- [x] **PM Search** - Private message search capability
+- [x] **Auto Approve** - Automatic join request approval
+- [x] **Send All Button** - Batch file sending
+- [x] **Auto Delete** - Automatic message cleanup
 
+### Advanced Features
+- [x] **Platform Detection** - Auto-detects Heroku, Koyeb, and Render
+- [x] **Keep-Alive System** - Prevents service sleep on all platforms
+- [x] **UI Renderer** - Beautiful search results formatting
+- [x] **Text Formatter** - Unicode small caps and markdown support
+- [x] **Admin Commands** - Comprehensive database and cache management
+- [x] **Language/Season/Quality Filters** - Advanced content filtering
+- [x] **Global Filters** - Bot-wide filter management
+- [x] **Batch Link Generation** - Create shareable links for multiple files
 
-`git clone https://github.com/VJBots/VJ-Filter-Bot`
-
-Install Packages
-
-`pip3 install -U -r requirements.txt`
-
-Edit info.py with variables as given below then run bot
-
-`python3 bot.py`
+**Note**: You can turn on or off every feature. Just use which feature you want by enabling it in settings.
 
 </b>
+
+---
+
+## 📋 Commands
+
+<details>
+<summary><b>👤 User Commands</b></summary>
+
+```
+• /start - Start the bot
+• /search - Search from various sources
+• /info - Get user information
+• /id - Get Telegram IDs
+• /imdb - Fetch info from IMDb
+• /stream - Generate stream and download link
+• /telegraph - Get telegraph link (files under 5MB)
+• /stickerid - Get sticker ID
+• /font - Get different font styles
+• /repo - Search GitHub repositories
+```
 </details>
 
-<hr>
+<details>
+<summary><b>👑 Admin Commands</b></summary>
 
+```
+• /index - Index files from your channel
+• /setskip - Skip messages when indexing
+• /logs - Get recent error logs
+• /stats - Get database statistics
+• /connections - See all connected groups
+• /settings - Open settings menu
+• /users - Get list of users
+• /chats - Get list of chats
+• /leave - Leave from a chat
+• /disable - Disable a chat
+• /enable - Re-enable a chat
+• /ban - Ban a user
+• /unban - Unban a user
+• /channel - List connected channels
+• /broadcast - Broadcast to all users
+• /grp_broadcast - Broadcast to all groups
+• /restart - Restart the bot
+• /deleteall - Delete all indexed files
+• /delete - Delete specific file
+• /deletefiles - Delete PreDVD and CamRip files
+• /purgerequests - Delete all join requests
+• /totalrequests - Get total join requests
+```
+</details>
 
-## Thanks to 
- - <b>Thanks To [Pyrogram Library](https://github.com/pyrogram/pyrogram) & [Pyrofork Library](https://github.com/Mayuri-Chan/pyrofork)
- - Thanks To [Eva Marie](https://t.me/TeamEvamaria) For Base Repo
- - Modified and maintained by [@Shadowedtomb](https://telegram.me/Shadowedtomb) and [@Hail_Arka](https://telegram.me/Hail_Arka)</b>
+<details>
+<summary><b>🔧 Filter Commands</b></summary>
 
-## Note 🏷️
+```
+• /filter - Add manual filters
+• /filters - View filters
+• /del - Delete a filter
+• /delall - Delete all filters
+• /gfilter - Add global filters
+• /gfilters - View global filters
+• /delg - Delete a global filter
+• /delallg - Delete all global filters
+```
+</details>
 
-<b>• For support or questions, contact [@Shadowedtomb](https://telegram.me/Shadowedtomb) or [@Hail_Arka](https://telegram.me/Hail_Arka).</b> 
+<details>
+<summary><b>🔗 Connection Commands</b></summary>
 
-<b>Fork The Repo And Edit As Per Your Needs.</b>
+```
+• /connect - Connect to PM
+• /disconnect - Disconnect from PM
+• /fsub - Add force subscribe channel
+• /nofsub - Remove force subscribe
+```
+</details>
 
-## Disclaimer
-[![GNU Affero General Public License 2.0](https://www.gnu.org/graphics/agplv3-155x51.png)](https://www.gnu.org/licenses/agpl-3.0.en.html#header)    
-<b>Licensed under [GNU AGPL 2.0.](https://github.com/VJBots/VJ-Filter-Bot/blob/Tech_VJ/LICENSE)
-Selling The Codes To Other People For Money Is *Strictly Prohibited*.</b>
+<details>
+<summary><b>📝 Rename Commands</b></summary>
 
-</pre>
+```
+• /rename - Rename your file
+• /set_caption - Add caption for renamed file
+• /see_caption - See your saved caption
+• /del_caption - Delete your saved caption
+• /set_thumb - Add thumbnail for renamed file
+• /view_thumb - View your saved thumbnail
+• /del_thumb - Delete your saved thumbnail
+```
+</details>
+
+<details>
+<summary><b>🔗 Batch Commands</b></summary>
+
+```
+• /batch - Create link for multiple posts
+• /link - Create link for one post
+```
+</details>
+
+<details>
+<summary><b>⚙️ Database Management Commands (Admin)</b></summary>
+
+```
+• /dbstats - Get database statistics
+• /adddb - Add new database connection
+• /removedb - Remove database connection
+• /listdbs - List all database connections
+• /dbhealth - Check database health status
+• /cachestats - Get cache statistics
+• /clearcache - Clear all cache
+```
+</details>
+
+---
+
+## 🔧 Environment Variables
+
+### Required Variables
+
+| Variable | Description | Example |
+|----------|-------------|---------|
+| `BOT_TOKEN` | Get from [@BotFather](https://t.me/BotFather) | `1234567890:ABCdefGHI...` |
+| `API_ID` | Get from [my.telegram.org](https://my.telegram.org/apps) | `12345678` |
+| `API_HASH` | Get from [my.telegram.org](https://my.telegram.org/apps) | `abcdef1234567890...` |
+| `DATABASE_URI` | MongoDB connection string | `mongodb+srv://user:pass@...` |
+| `LOG_CHANNEL` | Channel ID for logging | `-1001234567890` |
+| `CHANNELS` | File channel IDs (space-separated) | `-1001234567890 -1009876543210` |
+| `ADMINS` | Admin user IDs (space-separated) | `123456789 987654321` |
+
+### Optional Variables
+
+<details>
+<summary><b>Click to expand optional variables</b></summary>
+
+| Variable | Description | Default |
+|----------|-------------|---------|
+| `SESSION` | Bot session name | `ShadowedTombbotz` |
+| `DATABASE_NAME` | MongoDB database name | `shadowedtombbotz` |
+| `COLLECTION_NAME` | MongoDB collection name | `shadowedtombcollection` |
+| `AUTH_CHANNEL` | Force subscribe channel ID | None |
+| `SUPPORT_CHAT_ID` | Support group ID | None |
+| `REQST_CHANNEL` | Request channel ID | None |
+| `PORT` | Web server port | `8080` |
+| `URL` | Your deployment URL | Required for Render/Koyeb |
+| `STREAM_MODE` | Enable streaming | `True` |
+| `RENAME_MODE` | Enable rename feature | `False` |
+| `AUTO_APPROVE_MODE` | Auto approve join requests | `False` |
+| `IMDB` | Enable IMDb integration | `False` |
+| `AUTO_DELETE` | Auto delete messages | `True` |
+| `PROTECT_CONTENT` | Protect content from forwarding | `False` |
+| `AI_SPELL_CHECK` | Enable AI spell check | `True` |
+| `PM_SEARCH` | Enable PM search | `True` |
+| `MULTIPLE_DATABASE` | Enable multiple databases | `False` |
+| `DYNAMIC_DB_MODE` | Enable dynamic DB management | `False` |
+
+</details>
+
+---
+
+## 🚀 Deployment Options
+
+### Deploy to Render (Recommended) ⭐
+
+<details>
+<summary><b>Click for Render deployment instructions</b></summary>
+
+#### Quick Deploy (5 Minutes)
+
+1. **Push to GitHub**
+   ```bash
+   git init
+   git add .
+   git commit -m "Initial commit"
+   git remote add origin https://github.com/YOUR_USERNAME/YOUR_REPO.git
+   git push -u origin main
+   ```
+
+2. **Create Render Service**
+   - Go to [Render.com](https://render.com/)
+   - Click "New +" → "Web Service"
+   - Connect your GitHub repository
+   - Configure:
+     - **Environment**: Docker
+     - **Dockerfile Path**: `VJ-FILTER-BOT-Tech_VJ/Dockerfile`
+     - **Region**: Choose closest to your users
+
+3. **Set Environment Variables**
+   - Add all required variables from the table above
+   - **Important**: Set `URL` to your Render app URL
+
+4. **Deploy**
+   - Click "Create Web Service"
+   - Wait 5-10 minutes for build
+   - Check logs for "Bot Restarted" message
+
+#### Detailed Guide
+See [DEPLOYMENT_GUIDE.md](../DEPLOYMENT_GUIDE.md) for comprehensive instructions.
+
+#### Quick Reference
+See [QUICK_DEPLOY_RENDER.md](../QUICK_DEPLOY_RENDER.md) for 5-minute quick start.
+
+</details>
+
+---
+
+### Deploy to Koyeb
+
+<details>
+<summary><b>Click for Koyeb deployment instructions</b></summary>
+
+#### Quick Deploy
+
+1. **Push to GitHub** (same as Render)
+
+2. **Create Koyeb Service**
+   - Go to [Koyeb.com](https://www.koyeb.com/)
+   - Click "Create Service"
+   - Select "Docker" deployment
+   - Connect your GitHub repository
+   - Configure:
+     - **Dockerfile Path**: `VJ-FILTER-BOT-Tech_VJ/Dockerfile`
+     - **Port**: `8080`
+
+3. **Set Environment Variables**
+   - Add all required variables
+   - **Important**: Set `URL` to your Koyeb app URL
+
+4. **Deploy**
+   - Click "Deploy"
+   - Wait 5-10 minutes
+   - Check logs for "Bot Restarted"
+
+#### Detailed Guide
+See [DEPLOYMENT_GUIDE.md](../DEPLOYMENT_GUIDE.md) for comprehensive instructions.
+
+</details>
+
+---
+
+### Deploy to Heroku
+
+<details>
+<summary><b>Click for Heroku deployment instructions</b></summary>
+
+1. **Connect GitHub Account**
+   - Go to Heroku Dashboard
+   - Create new app
+   - Connect to GitHub repository
+
+2. **Configure**
+   - Select repository and branch
+   - Enable automatic deploys (optional)
+
+3. **Set Environment Variables**
+   - Go to Settings → Config Vars
+   - Add all required variables
+
+4. **Deploy**
+   - Click "Deploy Branch"
+   - Wait for build to complete
+
+**Note**: Heroku free tier has been discontinued. Consider using Render or Koyeb instead.
+
+</details>
+
+---
+
+### Deploy to VPS
+
+<details>
+<summary><b>Click for VPS deployment instructions</b></summary>
+
+```bash
+# Clone repository
+git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
+cd YOUR_REPO/VJ-FILTER-BOT-Tech_VJ
+
+# Install dependencies
+pip3 install -U -r requirements.txt
+
+# Edit info.py with your variables
+nano info.py
+
+# Run bot
+python3 bot.py
+```
+
+#### Using Docker (Recommended)
+
+```bash
+# Build Docker image
+docker build -t shadowd-tombbotz .
+
+# Run container
+docker run -d --name shadowd-bot \
+  -e API_ID=your_api_id \
+  -e API_HASH=your_api_hash \
+  -e BOT_TOKEN=your_bot_token \
+  -e DATABASE_URI=your_mongodb_uri \
+  -e LOG_CHANNEL=your_log_channel \
+  -e CHANNELS=your_channels \
+  -e ADMINS=your_admins \
+  shadowd-tombbotz
+```
+
+#### Using PM2 (Process Manager)
+
+```bash
+# Install PM2
+npm install -g pm2
+
+# Start bot with PM2
+pm2 start bot.py --name shadowd-bot --interpreter python3
+
+# Save PM2 configuration
+pm2 save
+
+# Enable PM2 startup
+pm2 startup
+```
+
+</details>
+
+---
+
+## 📊 Performance Optimizations
+
+This bot includes several performance optimizations:
+
+### 🚀 Caching System
+- In-memory caching with TTL (Time To Live)
+- Caches search results, user settings, and file metadata
+- Reduces database load by up to 70%
+- Configurable cache expiration times
+
+### 💾 Database Management
+- Dynamic database connection pooling
+- Automatic failover and load balancing
+- Health monitoring with automatic recovery
+- Support for unlimited MongoDB connections
+- Query optimization and intelligent routing
+
+### 🎨 UI Enhancements
+- Beautiful search results formatting
+- Unicode small caps text rendering
+- Markdown formatting support
+- Responsive button layouts
+
+### ⚡ Query Optimization
+- Intelligent query routing
+- Connection pooling
+- Automatic retry with exponential backoff
+- Load balancing across multiple databases
+
+---
+
+## 📚 Documentation
+
+- **[DEPLOYMENT_GUIDE.md](../DEPLOYMENT_GUIDE.md)** - Complete deployment guide for Koyeb & Render
+- **[QUICK_DEPLOY_RENDER.md](../QUICK_DEPLOY_RENDER.md)** - 5-minute quick start for Render
+- **[RENDER_DEPLOYMENT_CHECKLIST.md](../RENDER_DEPLOYMENT_CHECKLIST.md)** - Pre-deployment verification
+- **[KOYEB_RENDER_UPDATES.md](../KOYEB_RENDER_UPDATES.md)** - Platform compatibility updates
+
+---
+
+## 🛠️ Troubleshooting
+
+<details>
+<summary><b>Common Issues and Solutions</b></summary>
+
+### Bot Not Starting
+- ✅ Verify all required environment variables are set
+- ✅ Check MongoDB connection string is correct
+- ✅ Ensure BOT_TOKEN is valid
+- ✅ Review deployment logs for error messages
+
+### Database Connection Failed
+- ✅ Verify MongoDB Atlas IP whitelist (allow 0.0.0.0/0)
+- ✅ Check database user has read/write permissions
+- ✅ Test connection string using MongoDB Compass
+
+### Import Errors
+- ✅ Ensure all dependencies in requirements.txt
+- ✅ Check HailArka folder exists in repository
+- ✅ Verify Python version is 3.10.8
+
+### Bot Goes Offline (Render Free Tier)
+- ✅ Render free tier spins down after 15 min inactivity
+- ✅ Use external keep-alive service (UptimeRobot)
+- ✅ Upgrade to paid plan for 24/7 uptime
+
+### Module Not Found
+- ✅ Reinstall dependencies: `pip3 install -U -r requirements.txt`
+- ✅ Check all files are present in repository
+- ✅ Verify folder structure is intact
+
+</details>
+
+---
+
+## 🔄 Updates & Maintenance
+
+### Recent Updates
+- ✅ Added Render and Koyeb platform support
+- ✅ Implemented advanced caching system
+- ✅ Added database health monitoring
+- ✅ Improved query optimization
+- ✅ Enhanced UI rendering
+- ✅ Added dynamic database management
+- ✅ Implemented keep-alive for all platforms
+
+### Updating Your Bot
+
+#### Via Git Pull
+```bash
+cd YOUR_REPO/VJ-FILTER-BOT-Tech_VJ
+git pull origin main
+pip3 install -U -r requirements.txt
+python3 bot.py
+```
+
+#### Via Render/Koyeb
+- Push changes to GitHub
+- Platforms will auto-deploy
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome! Please:
+1. Fork the repository
+2. Create a feature branch
+3. Make your changes
+4. Submit a pull request
+
+---
+
+## 💬 Support
+
+Need help? Join our community:
+
+- **Telegram Channel**: [@shadowedtomb](https://t.me/shadowedtomb)
+- **Support Group**: [@shadowedtomb_discussion](https://t.me/shadowedtomb_discussion)
+- **Developer**: [@Hail_Arka](https://t.me/Hail_Arka)
+- **Maintainer**: [@Shadowedtomb](https://t.me/Shadowedtomb)
+
+---
+
+## 🙏 Credits
+
+- **Base Repository**: [Eva Marie](https://t.me/TeamEvamaria)
+- **Pyrogram Library**: [Pyrogram](https://github.com/pyrogram/pyrogram)
+- **Pyrofork Library**: [Pyrofork](https://github.com/Mayuri-Chan/pyrofork)
+- **Modified & Maintained by**: [@Shadowedtomb](https://t.me/Shadowedtomb) and [@Hail_Arka](https://t.me/Hail_Arka)
+
+---
+
+## ⚖️ License
+
+[![GNU Affero General Public License 2.0](https://www.gnu.org/graphics/agplv3-155x51.png)](https://www.gnu.org/licenses/agpl-3.0.en.html#header)
+
+Licensed under [GNU AGPL 2.0](LICENSE)
+
+**⚠️ Important**: Selling the codes to other people for money is **strictly prohibited**.
+
+---
+
+## 📝 Note
+
+- Fork the repo and edit as per your needs
+- For support or questions, contact [@Shadowedtomb](https://t.me/Shadowedtomb) or [@Hail_Arka](https://t.me/Hail_Arka)
+- Star ⭐ the repository if you find it useful!
+
+---
+
+<p align="center">
+  <b>Made with ❤️ by Shadowd TombBotz Team</b>
 </p>
-</details>
 
-
+<p align="center">
+  <a href="https://t.me/shadowedtomb">
+    <img src="https://img.shields.io/badge/Join-Telegram%20Channel-blue?style=for-the-badge&logo=telegram" alt="Telegram Channel">
+  </a>
+</p>
