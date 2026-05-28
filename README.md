@@ -329,7 +329,7 @@ See [DEPLOYMENT_GUIDE.md](../DEPLOYMENT_GUIDE.md) for comprehensive instructions
 ```bash
 # Clone repository
 git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
-cd YOUR_REPO/VJ-FILTER-BOT-Tech_VJ
+cd https://github.com/arkiyaalya/filterauto
 
 # Install dependencies
 pip3 install -U -r requirements.txt
@@ -469,7 +469,7 @@ This bot includes several performance optimizations:
 
 #### Via Git Pull
 ```bash
-cd YOUR_REPO/VJ-FILTER-BOT-Tech_VJ
+cd https://github.com/arkiyaalya/filterauto
 git pull origin main
 pip3 install -U -r requirements.txt
 python3 bot.py
